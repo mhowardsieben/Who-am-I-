@@ -1,0 +1,39 @@
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+h3{
+  text-align: left;
+}
+
+p {
+  text-align: left;
+}
+
+h4 {
+  text-align: center;
+}
+
+img {
+  text-align: right;
+}
+
+#Section {
+  background-color: #a28089;
+}
+
+#Header {
+  background-color: yellow;
+}
+
+#Footer {
+  background-color: purple;
+}
+
+body {
+  background-color: yellow;
+}
