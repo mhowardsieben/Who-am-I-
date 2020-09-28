@@ -1,39 +1,38 @@
-h1 {
-  text-align: center;
-}
-
-h2 {
-  text-align: center;
-}
-
-h3{
-  text-align: left;
-}
-
-p {
-  text-align: left;
-}
-
-h4 {
-  text-align: center;
-}
-
-img {
-  text-align: right;
-}
-
-#Section {
-  background-color: #a28089;
-}
-
 #Header {
-  background-color: yellow;
+  background-color: #f75990;
+  text-align: center;
+  margin: 0 !important;
+  padding: 0 !important;
 }
 
-#Footer {
-  background-color: purple;
+#Column {
+ column-count: 2;
+ margin: 0 !important;
+ padding: 0 !important;
+ }
+
+footer {
+  text-align: center;
+  background-color: #00DDFF;
+  margin-bottom:0;
+  }
+
+h3 {
+  margin-top: 0px
 }
 
 body {
-  background-color: yellow;
+ background-color: #fff685;
+ margin: 0
 }
+
+head {
+  margin: 0
+}
+  h1 {
+    margin-top: 0
+  }
+
+  p {
+    margin-bottom: 0
+  }
