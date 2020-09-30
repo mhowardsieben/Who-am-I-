@@ -1,7 +1,15 @@
-#Column {
- column-count: 3;
+#Column1 {
+ text-align: left;
  margin: 0 !important;
  padding: 0 !important;
+ }
+
+ #Column2 {
+    text-align: center;
+ }
+
+ #Column3 {
+   text-align: right;
  }
 
 footer {
